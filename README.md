@@ -11,7 +11,9 @@ Aplicação desenvolvida em ReactJS, trata de um fórum de perguntas e respostas
 * MySQL
 
 ### :movie_camera: Demo
-[![Assista o vídeo](./src/images/Desktop - Página Principal play.png)]
+<a href="https://www.youtube.com/watch?v=fP4TFA76nEs" title="Assista ao vídeo" target="_blank">
+<img src="https://github.com/Eleson-Souza/forum-for-devs_web/blob/master/src/images/Desktop%20-%20P%C3%A1gina%20Principal%20play.png" width="500">
+</a>
 
 ## :page_facing_up: Licença
 
