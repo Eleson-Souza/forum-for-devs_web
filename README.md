@@ -1,68 +1,27 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Forum For Devs (Frontend)
 
-## Available Scripts
+Aplicação desenvolvida em ReactJS, trata de um fórum de perguntas e respostas sobre tecnologia. Essa aplicação consume dados de uma [API Rest desenvolvida em NodeJS](https://github.com/Eleson-Souza/forum-for-devs_server).
 
-In the project directory, you can run:
+### :rocket: Tecnologias 
+* ReactJS
+* NodeJS
+* JavaScript
+* HTML
+* CSS
+* MySQL
 
-### `yarn start`
+### :movie_camera: Demo
+[![Assista o vídeo](./src/images/Desktop - Página Principal play.png)]
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :page_facing_up: Licença
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+Este projeto está sob a licença MIT License - veja o arquivo [LICENSE.md](https://github.com/Eleson-Souza/forum-for-devs_web/blob/master/LICENSE) para detalhes.
 
-### `yarn test`
+### ✒️ Autor
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Eleson Souza
 
-### `yarn build`
+### Social
+[Acesse meus repositórios GitHub](https://github.com/Eleson-Souza?tab=repositories)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[Acesse meu LinkedIn](https://www.linkedin.com/in/eleson-souza-97735a174/)
